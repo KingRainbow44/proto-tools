@@ -1,0 +1,13 @@
+{
+  "name": "proto-tools",
+  "description": "Tools for manipulating protocol buffers (and their descriptors)",
+  "private": true,
+  "scripts": {
+    "format": "prettier scripts -w && prettier src -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "bun-types": "^1.1.42",
+    "prettier": "^3.4.2"
+  }
+}

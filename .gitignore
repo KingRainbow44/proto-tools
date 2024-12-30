@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+.vscode/
+
+# NPM dependencies
+node_modules/
+
+# Protocol definitions
+*_proto/
+
+# Output files
+output/
